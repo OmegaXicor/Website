@@ -1,0 +1,35 @@
+body{background-attachment:fixed;background-color:black;background-image:url("/images/background.jpg");background-position:center;}
+.linkimg{width:100%; height:130px;}
+#navbar{background-color:black;display:flex;width:100vw;justify-content:space-evenly;}
+
+.baseimg{display:flex; flex-wrap:wrap; flex-direction:row;}
+
+.hone{width:60%; justify-content: flex-end; align-content: flex-end;}
+
+.home{
+color: rgb(0, 0, 0, 0);
+}
+.hometext{
+    color: whitesmoke;
+    width:60vw;
+    justify-content: space-around;
+}
+.vone{width:30vw; justify-content:flex-start; align-items:flex-start;}
+.vtwo{width:30vw; justify-content:flex-end; align-items:flex-start;}
+.vthree{width:35vw; justify-content:flex-start; align-items:flex-end;}
+.vfour{width:25vw; justify-content:flex-end; align-items:flex-end;}
+
+.wlycaon{width:100vw; justify-content:space-around; align-items:flex-start;}
+
+.wone{width:100vw; justify-content:center;}
+.wtwo{width:40vw; justify-content:flex-start; align-items:flex-start;}
+.wthree{width:20vw; justify-content:flex-end; align-items:flex-end;}
+.wfour{width:30vw; justify-content:flex-start; align-items:flex-start;}
+
+.link{font-style: italic;}
+
+p{
+    color: whitesmoke;
+    width:30vw;
+    justify-content: space-around;
+}
